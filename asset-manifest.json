@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CodeClause-Live-Language-Translation/static/css/main.87e3175e.css",
+    "main.js": "/CodeClause-Live-Language-Translation/static/js/main.ad57ac90.js",
+    "static/js/787.28cb0dcd.chunk.js": "/CodeClause-Live-Language-Translation/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/CodeClause-Live-Language-Translation/index.html",
+    "main.87e3175e.css.map": "/CodeClause-Live-Language-Translation/static/css/main.87e3175e.css.map",
+    "main.ad57ac90.js.map": "/CodeClause-Live-Language-Translation/static/js/main.ad57ac90.js.map",
+    "787.28cb0dcd.chunk.js.map": "/CodeClause-Live-Language-Translation/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87e3175e.css",
+    "static/js/main.ad57ac90.js"
+  ]
+}
